@@ -8,3 +8,11 @@ Eu criei uma expressão RNP (Notacao Polonesa Reversa - a mesma usada em HP 48 G
 Vamos trocar ideias. 
 
 Julio ! 
+
+Depois de clonar execute 
+
+(base) neuron@brain:~/c-to-assembly$ gcc -Iinclude -o build/compiler src/*.c
+(base) neuron@brain:~/c-to-assembly$ ./build/compiler
+
+para rodar e sua máquina ! 
+
