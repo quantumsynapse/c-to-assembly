@@ -9,10 +9,10 @@ Vamos trocar ideias.
 
 Julio ! 
 
-Depois de clonar execute 
+Depois de clonar o repositorio execute 
 
 (base) neuron@brain:~/c-to-assembly$ gcc -Iinclude -o build/compiler src/*.c
 (base) neuron@brain:~/c-to-assembly$ ./build/compiler
 
-para rodar e sua máquina ! 
+Para rodar em sua máquina ! 
 
